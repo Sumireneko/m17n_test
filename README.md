@@ -18,3 +18,4 @@ The language locale is saved in the config.json file and will be retained the ne
 Since this is a debug test, the plugin path and config file location are specified manually.
 Ideally, the pykrita plugin folder would be assigned to this location. 
 
+With some ingenuity, you should be able to save parameters other than locale data in a JSON file as the config data.
